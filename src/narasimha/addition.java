@@ -19,6 +19,7 @@ public class addition {
 	          sum = sum+num;
 	      }
 	      System.out.println("Sum of array elements is:"+sum);
+	      
 	   }
 	
 	}
