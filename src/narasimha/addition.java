@@ -20,6 +20,8 @@ public class addition {
 	      }
 	      System.out.println("Sum of array elements is:"+sum);
 	      System.out.println("narasimha");
+	      System.out.println("Hello world");
+	      
 	   }
 	
 	}
